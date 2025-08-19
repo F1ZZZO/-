@@ -2,7 +2,7 @@
 这是一款为游戏《百炼英雄》制作的免费桌面小工具，旨在帮助玩家轻松管理和追踪每日、每周及周期性的任务，防止错过任何重要的活动。
 现以实现对于矿物，每日任务，工会战等的追踪提醒。
 
-源码已上传
+源码已上传，如果对您有帮助，请帮忙点一下star
 
 <img width="480" height="685" alt="image" src="https://github.com/user-attachments/assets/2479f802-72c1-4b0c-8ba8-ea5dd0af3aa4" />
 

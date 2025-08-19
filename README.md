@@ -3,7 +3,9 @@
 现以实现对于矿物，每日任务，工会战等的追踪提醒。
 
 本程序由“烟上星雨夜”免费制作并分享。
-<img width="482" height="682" alt="image" src="https://github.com/user-attachments/assets/9245af8b-02db-4b00-8ae5-a7da7c407936" />
+
+<img width="480" height="685" alt="image" src="https://github.com/user-attachments/assets/2479f802-72c1-4b0c-8ba8-ea5dd0af3aa4" />
+
 
 主要功能
 智能任务清单: 程序启动后会自动生成当天的待办任务列表。
